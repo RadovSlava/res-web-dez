@@ -1,0 +1,23 @@
+{
+  "name": "res-web-dez",
+  "version": "1.0.0",
+  "description": "responsive web design",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --output-style compressed index.scss > styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadovSlava/res-web-dez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadovSlava/res-web-dez/issues"
+  },
+  "homepage": "https://github.com/RadovSlava/res-web-dez#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}

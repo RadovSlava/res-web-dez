@@ -1,5 +1,27 @@
 [class*="col-"] {
-    float: left;
     padding: 15px;
-    border: 1px solid rgb(0, 0, 0);
+    border: 5px solid white;
+  }
+
+  .orange{
+    background-color: orange
+  }
+
+  .grey{
+  background-color: lightgrey;
+  }
+
+  .blue{
+    background-color: lightskyblue;
+  }
+
+  .yellow{
+    background-color: yellowgreen;
+  }
+
+  .footer div {
+    height: 8vh;
+  }
+  .content div {
+    height: 16vh;
   }
